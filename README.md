@@ -1,4 +1,4 @@
-# Featured_Comments_Impact
+# The Impact of Featuring Comments in Online Discussions
 Repository for ASONAM 2024 paper: The Impact of Featuring Comments in Online Discussions
 
 ### For information on the featured candidates scoring:
